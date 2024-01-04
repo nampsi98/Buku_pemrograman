@@ -4,4 +4,4 @@ nampsi98/nampsi98 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-#Nam_psi
+Nam_psi
